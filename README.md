@@ -1,2 +1,2 @@
 # Dijkstra Algorithm
-Implementation of Dijkstra Algorithm in c++ in CS #303
+Implementation of Dijkstra Algorithm in C++: CS 303
